@@ -32,6 +32,6 @@
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@GuGuGuGun](https://github.com/GuGuGuGun) - Idea & Initial work
-
+---
 <h3>遵循MIT开源协议</h3>
 <h3>License:MIT</h3>
