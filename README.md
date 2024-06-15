@@ -1,74 +1,30 @@
-Title
-===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
+<h3 align="center">自用改进模块仓库</h3>
+<h3 align="center">Self-use Improved Model project</h3>
 
-## Install & Dependence
-- python
-- pytorch
-- numpy
+<div align="center">
 
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
+</div>
+
+---
 
 
-## Directory Hierarchy
-```
-|—— .gitattributes
-|—— C2f_imporve
-|    |—— CCE.py
-|—— LICENSE
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
+## 📝 Table of Contents
 
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 About ](#-about-)
+- [✍️ Authors ](#️-authors-)
+
+## 🧐 About <a name = "about"></a>
+
+这是一个自用仓库，主要方向CV，主要目的是为了保存自己修改的各种模块改进和各种Net的改进
+有时候也会上传其他东西
+
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@GuGuGuGun](https://github.com/GuGuGuGun) - Idea & Initial work
+
+<h3>遵循MIT开源协议</h3>
+<h3>License:MIT</h3>
