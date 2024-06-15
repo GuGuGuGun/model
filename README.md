@@ -25,7 +25,8 @@
 
 ## 🎈 Model <a name = "model"></a>
 - <h4>C2F方向改进：</h4>
-  <p>1、CCE-一种融合了ELA注意力、以CCA重新设计bottleneck、使用CGAFusion进行双尺度特征融合的C2f改进模块</p>
+  <p>1、CCE-一种融合了ELA注意力、以CCA重新设计bottleneck、使用CGAFusion进行双尺度特征融合的C2f改进模块(在NEU-DET数据集上表现良好)</p>
+  <p>1.CCE-an improved C2f module that fuses ELA attention module, redesigns bottleneck with CCA, and uses CGAFusion for dual-scale feature fusion (performs well on NEU-DET dataset)</p>
 
 
 
