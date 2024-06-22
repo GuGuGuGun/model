@@ -29,6 +29,8 @@
   <p >CCE-an improved C2f module that fuses ELA attention module, redesigns bottleneck with CCA, and uses CGAFusion for dual-scale feature fusion (performs well on NEU-DET dataset)</p>
   <p><b>2、star-C2f-使用StarNet的block替换C2f的bottleneck，更加轻量化的C2f改进模块</b></p>
   <p> star-C2f - Replace the bottleneck of C2f with StarNet's block, and improve the module of C2f with lightweight</p>
+  <p><b>3、CPCA-C2f-使用CPCA注意力模块与C2f的bottleneck融合，增强空间关系的提取能力，提高特征的表征能力</b></p>
+  <p>3. CPCA-C2f-The bottleneck fusion of CPCA attention module and C2f is used to enhance the extraction ability of spatial relationships and improve the ability to characterize features</p>
 
 
 ## ✍️ Authors <a name = "authors"></a>
