@@ -52,8 +52,3 @@ class CPCA_C2f(nn.Module):
         y.extend(m(y[-1]) for m in self.m)
         return self.cv2(torch.cat(y, 1))
 
-
-if __name__ == '__main__':
-    t1 = torch.rand(1, 256, 64, 64)
-    block = CPCA_C2f(256, 512)
-    print(block(t1).shape)
