@@ -39,7 +39,7 @@
 
 ## ✍️ Recently <a name = "recently"></a>
 <h3>近日更新说明：</h3>
-<p><b>将个人改进项目模块整体打包，同时附带所需注意力模块（部分可酌情使用），baseline为YOLOv8，使用ultralytics8.2.0架构，部分结构的yaml已被删除（暂时不能公开），具体使用可参考./cfg/models/v8路径下的部分改进yaml。项目同时提供了FPS计算（已整合至训练中，也可使用FPS.py单独计算）、基本的微调训练、剪枝代码（感兴趣的可以参考代码进行进一步设计，也可使用Torch-Pruning库对代码进行改进，部分剪枝模块不公开。</b></p>
+<p><b>将个人改进项目模块整体打包，同时附带所需注意力模块（部分可酌情使用），baseline为YOLOv8，使用ultralytics8.2.0架构，部分结构的yaml已被删除（暂时不能公开），具体改进可参考./cfg/models/v8路径下的部分改进yaml，训练源码已提供。项目同时提供了FPS计算（已整合至训练中，也可使用FPS.py单独计算）、基本的微调训练、剪枝代码（感兴趣的可以参考代码进行进一步设计，也可使用Torch-Pruning库对代码进行改进，部分剪枝模块不公开。</b></p>
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@GuGuGuGun](https://github.com/GuGuGuGun) - Idea & Initial work
